@@ -1,6 +1,6 @@
 #! /bin/python3.10
 inputs:list[str] = []
-with open("2.i", 'r') as f:
+with open("i", 'r') as f:
 	inputs = f.readlines()
 
 x = 0

@@ -1,6 +1,6 @@
 #! /bin/python3.10
 lines:list[str] = []
-with open("3.i") as f:
+with open("i") as f:
 	lines = f.readlines()
 
 linelen = len(lines[0])-1
